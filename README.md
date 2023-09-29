@@ -17,7 +17,7 @@
 * Info lebih lanjut hubungi :
 * Github : [RhmttCore](https://github.com/RhmttCore)
 * Replit : [@Rhmtt](https://replit.com/@Rhmtt)
-* WhatsApp : [Tap](https://wa.me/6285254337661)
+* WhatsApp : [085254337661](https://wa.me/6285254337661)
 
 # Requirements
 * [Nodejs](https://nodejs.org/en/)
