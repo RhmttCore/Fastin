@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/rtwone"><img title="Name" src="https://img.shields.io/badge/Author-Fastin-blue.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/rtwone"><img title="Version" src="https://img.shields.io/badge/Author-v1.0-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RhmttCore"><img title="Name" src="https://img.shields.io/badge/Name-Fastin-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RhmttCore"><img title="Version" src="https://img.shields.io/badge/Version-v1.0-blue.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-blue.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/RhmttCore"><img title="Recode" src="https://img.shields.io/badge/Recode-Rahmat-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
