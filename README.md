@@ -47,6 +47,7 @@ node index.js --code (Using otp)
 ```
 
 # Thanks to
-- [Whiskeysockets](https://github.com/whiskeysockets)- [Irfan](https://github.com/rtwone)
+- [Whiskeysockets](https://github.com/whiskeysockets)
+- [Irfan](https://github.com/rtwone)
 - [Yoga](https://github.com/YogGanz)
 - [Handoko](https://github.com/handoko19)
