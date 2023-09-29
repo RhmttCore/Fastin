@@ -24,6 +24,12 @@
 * [Git](https://git-scm.com/downloads)
 * [Ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 
+## For Replit
+```ts
+npm i
+npm start
+```
+
 ## For Termux
 ```ts
 termux-setup-storage
@@ -39,10 +45,6 @@ yarn
 node index.js --qr (Using barcodes)
 node index.js --code (Using otp)
 ```
-
-## Donate
-- Dana : [081251767935](https://wa.me/6281251767935?text=Saya+ingin+berdonasi!)
-- Gopay : [085254337661](https://wa.me/6285254337661?text=Saya+ingin+berdonasi)
 
 # Thanks to
 - [Whiskeysockets](https://github.com/whiskeysockets)- [Irfan](https://github.com/rtwone)
