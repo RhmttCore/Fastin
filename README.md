@@ -43,8 +43,7 @@ node index.js --code (Using otp)
 - Gopay : [085254337661](https://wa.me/6285254337661?text=Saya+ingin+berdonasi)
 
 # Thanks to
-<a 
-- [Whiskeysockets](https://github.com/whiskeysockets)- [Irfan](https://github.com/rtwone)
+- [Whiskeysockets](https://github.com/whiskeysockets)
+- [Irfan](https://github.com/rtwone)
 - [Yoga](https://github.com/YogGanz)
 - [Handoko](https://github.com/handoko19) 
-</p>
