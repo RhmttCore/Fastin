@@ -1,4 +1,6 @@
 <p align="center">
+<a href="https://github.com/rtwone"><img title="Name" src="https://img.shields.io/badge/Author-Fastin-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rtwone"><img title="Version" src="https://img.shields.io/badge/Author-v1.0-blue.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-blue.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/RhmttCore"><img title="Recode" src="https://img.shields.io/badge/Recode-Rahmat-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -43,7 +45,6 @@ node index.js --code (Using otp)
 - Gopay : [085254337661](https://wa.me/6285254337661?text=Saya+ingin+berdonasi)
 
 # Thanks to
-- [Whiskeysockets](https://github.com/whiskeysockets)
-- [Irfan](https://github.com/rtwone)
+- [Whiskeysockets](https://github.com/whiskeysockets)- [Irfan](https://github.com/rtwone)
 - [Yoga](https://github.com/YogGanz)
-- [Handoko](https://github.com/handoko19) 
+- [Handoko](https://github.com/handoko19)
