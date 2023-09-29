@@ -43,7 +43,8 @@ node index.js --code (Using otp)
 - Gopay : [085254337661](https://wa.me/6285254337661?text=Saya+ingin+berdonasi)
 
 # Thanks to
-<a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> | [![Irfan](https://github.com/rtwone.png?size=100)](https://github.com/rtwone) | [![Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) | [![Caliph](http://github.com/caliphdev.png?size=100)](http://github.com/caliphdev) | [![Handoko](http://github.com/handoko19.png?size=100)](http://github.com/handoko19) | [![Arthur](http://github.com/arthur-md.png?size=100)](http://github.com/arthur-md) | 
-----|----|----|----|----|----|----
-[Whiskeysockets](https://github.com/whiskeysockets) | [Irfan](https://github.com/rtwone) | [Yoga](https://github.com/YogGanz) | [Handoko](https://github.com/handoko19) 
-Owner of Baileys | Owner of Chitanda  | Owner of Caliph api | For Help | Pesatir 
+<a 
+- [Whiskeysockets](https://github.com/whiskeysockets)- [Irfan](https://github.com/rtwone)
+- [Yoga](https://github.com/YogGanz)
+- [Handoko](https://github.com/handoko19) 
+</p>
